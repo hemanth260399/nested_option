@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Nested List task</h1>
+<ul>
+  <li>In this task i have created the nested list in this i have mostly used condition render like if i click the one button it add the name statsu as true or false </li>
+  <li>If the state is true it will aloow to show the below list and we can minimize that too</li>
+  <li>But in this definetly i want to improve css not desgined properly i will changed after this and i will make it clear</li>
+</ul>
